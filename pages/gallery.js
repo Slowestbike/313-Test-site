@@ -1,0 +1,1 @@
+window.renderPage = galleryPage;
